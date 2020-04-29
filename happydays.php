@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>trying my first git clone</title>
+        <title>trying my first git and merging branches</title>
     </head>
     <body>
         <?php
