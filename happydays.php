@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'hello world';
+        $f = 32;
         echo 'changing the php code for fun';
         ?>
     </body>
