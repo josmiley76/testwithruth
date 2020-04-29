@@ -1,4 +1,5 @@
 <?php
 
-echo 'last try';
+$fetch = 45;
+echo 'trying fetch';
 
