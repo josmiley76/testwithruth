@@ -1,5 +1,5 @@
 <?php
 
-$borrow = 'hjkl';
+$borrow = 12;
 echo 'trying fetch';
 
